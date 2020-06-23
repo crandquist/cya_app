@@ -1,0 +1,4 @@
+include cya_app/schema.sql
+graft cya_app/static
+graft cya_app/templates
+global-exclue *.pyc
